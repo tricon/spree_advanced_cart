@@ -1,5 +1,4 @@
 require 'spree_core'
-require 'spree_advanced_cart_hooks'
 
 module SpreeAdvancedCart
   class Engine < Rails::Engine
